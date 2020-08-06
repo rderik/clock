@@ -6,4 +6,7 @@ You can read the article explaining the command-line tool, here:
 
 [https://rderik.com/blog/building-a-text-based-application-using-swift-and-ncurses/](https://rderik.com/blog/building-a-text-based-application-using-swift-and-ncurses/)
 
+## Screenshot
+
+![Clock interface screenshot](https://github.com/rderik/clock/blob/main/Resources/clock_demo.png?raw=true)
 
